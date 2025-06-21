@@ -1,7 +1,3 @@
-
----
-
-```markdown
 # MOUTSTI_TESTE – Automação de Testes com Cypress
 
 ![Cypress](https://img.shields.io/badge/Cypress-14.5.0-green?style=flat&logo=cypress)
